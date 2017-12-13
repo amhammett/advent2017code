@@ -1,0 +1,13 @@
+{
+  "part1": {
+    "examples": [
+      { "input": 1,    "solution": 0 },
+      { "input": 12,   "solution": 3 },
+      { "input": 23,   "solution": 2 },
+      { "input": 1024, "solution": 31 }
+    ],
+    "puzzle": {
+      "input": 325489
+    }
+  }
+}
